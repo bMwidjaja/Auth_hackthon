@@ -1,2 +1,2 @@
 # Auth_hackthon
-santt's firts bootcamp
+santi's firstb ootcamp
